@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function FooterCopyright() {
-    return <span>ООО “интукод”, 2020г.</span>
+  return <span>ООО “интукод”, 2020г.</span>;
 }
 
-export default FooterCopyright
+export default FooterCopyright;

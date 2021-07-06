@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
-function HeaderMenu(){
-    return <ul>
-        <li>Главная</li>
-        <li>О нас</li>
-        <li>Контакты</li>
+function HeaderMenu() {
+  return (
+    <ul>
+      <li>Главная</li>
+      <li>О нас</li>
+      <li>Контакты</li>
     </ul>
+  );
 }
 
-export default HeaderMenu
+export default HeaderMenu;
